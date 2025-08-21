@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00	황금새장소갷ㅁ스터	https://www.youtube.com/watch?v=iV8100eRFyo	"2:46 / 2분"	iV8100eRFyo	UC-gVDcN8CCSgC5dIkI21nQg	"쌀숭이 - 대출론 개이득이야"	"황금새장 속 햄스터"	2025-08-21T14:00:00Z		
-23:05	리멤브란서족	https://youtu.be/_ZDaTnoWesQ	"2:49 / 2분"	_ZDaTnoWesQ	UCyubHegqy_VnUcyvB1Glo5Q	메끼끼	리멤브란서족	2025-08-21T14:05:00Z		
-23:10										
+23:00		https://www.youtube.com/watch?v=iV8100eRFyo		iV8100eRFyo	UC-gVDcN8CCSgC5dIkI21nQg	"쌀숭이 - 대출론 개이득이야"	"황금새장 속 햄스터"	2025-08-21T14:00:00Z		
+23:05		https://youtu.be/_ZDaTnoWesQ		_ZDaTnoWesQ	UCyubHegqy_VnUcyvB1Glo5Q	메끼끼	리멤브란서족	2025-08-21T14:05:00Z		
+23:10		https://youtu.be/EjmXKGttfHc		EjmXKGttfHc	UCRF2I-nHSVRd2F6v-a6RSgg	"Quelle est la prochaine destination? / 다음 목적지는 어디?"	선원1	2025-08-21T14:10:00Z		
 23:15										
 23:20										
 23:25										
