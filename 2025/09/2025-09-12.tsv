@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00										
-23:05										
-23:10										
+23:00	상추토끼	https://www.youtube.com/watch?v=ldRPOcPJZNo&feature=youtu.be	2:24/3분	ldRPOcPJZNo	UCtU5w-7gQx-EGELB87XkDBA	"[해적팝]Hello, pirates/안녕해적"	상추토끼	2025-09-12T14:00:00Z	2025-09-12T14:00:06Z	2025-09-12T14:05:30Z
+23:05	리스항르	https://youtu.be/J2t7QCxtQC4	3:23/2분	J2t7QCxtQC4	UCFkPy1vgducXZysIeR2uwgw	"메벤남 - 부자가 될거 같아"	리스항르	2025-09-12T14:05:00Z	2025-09-12T14:05:06Z	2025-09-12T14:10:55Z
+23:10	대가리텅텅	https://youtu.be/kQue_NijwYA	4:05/2분	kQue_NijwYA	UCeI1wTYnS3lUL4C2jC06KPg	"낙인 | Lyrics Video"	아무생각없는거같기도하고아닌거같기도	2025-09-12T14:11:00Z	2025-09-12T14:11:06Z	2025-09-12T14:17:28Z
 23:15										
 23:20										
 23:25										
