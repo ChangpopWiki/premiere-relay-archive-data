@@ -1,11 +1,11 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00			"4:06 / 1분"							
-23:05			4:04/2분							
-23:10			"2:16 / 3분"							
-23:15			"3:26 / 2분"							
-23:20			1:52/2분							
-23:25										
-23:30										
+23:00	독슝좍	https://youtu.be/pfMz8tbSRSw	"4:06 / 1분"	pfMz8tbSRSw	UCZvDzp98ak83aQFpXrBNfOw	"[창팝] 신창섭 - Sugar (수가)"	독슝좍	2025-09-14T14:00:00Z	2025-09-14T14:00:06Z	2025-09-14T14:05:34Z
+23:05	창섭이	https://youtu.be/E8nbI_HqIdQ	4:04/2분	E8nbI_HqIdQ	UCGpz7I5JEixbGWA6dN65VsQ	"가장 좋아하는 버튜버"	창섭이	2025-09-14T14:05:00Z	2025-09-14T14:05:06Z	2025-09-14T14:11:34Z
+23:10	4lt3r	https://www.youtube.com/watch?v=Z8jzxj3YkoE	"2:16 / 3분"	Z8jzxj3YkoE	UC8cI3OGG585QFj7WfcRwWsg	"[창팝] 쌀파라과이"	4lt3r	2025-09-14T14:10:00Z	2025-09-14T14:10:06Z	2025-09-14T14:15:29Z
+23:15	맹혜리	https://youtu.be/vP5_F_-ySyo	"3:26 / 2분"	vP5_F_-ySyo	UCMyXD9rg7rsUqSMCPy8CWng	"버슝좍 - 에피소드 (원곡 : 이무진 - 에피소드)"	맹혜리	2025-09-14T14:15:00Z	2025-09-14T14:15:06Z	2025-09-14T14:20:33Z
+23:20	김dred	https://youtu.be/s7DSUkLiaO8	1:52/2분	s7DSUkLiaO8	UCTc8W4fbpOKdwRkBsEHRzrQ	쉰표	김dred	2025-09-14T14:20:00Z	2025-09-14T14:20:06Z	2025-09-14T14:24:03Z
+23:25	거울세계신창섭	https://youtu.be/6lv17vPCXgg	3:15/2분	6lv17vPCXgg	UCRIiq2G1S_FRPkGjEV_APpg	"신창섭 나우 - 2025년 9월"	거울세계신창섭	2025-09-14T14:25:00Z	2025-09-14T14:25:06Z	2025-09-14T14:30:29Z
+23:30	창팝용	https://youtu.be/omr8pGT6bc0	"3:03 / 2분"	omr8pGT6bc0	UC-6V2KF8UierJH9EXkjoQEw	"리슝좍 - LATE (미완성 버전)"	창팝용	2025-09-14T14:30:00Z	2025-09-14T14:30:06Z	2025-09-14T14:35:24Z
 23:35										
 23:40										
 23:45										
