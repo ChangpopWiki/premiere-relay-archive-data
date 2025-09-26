@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
 23:00										
-23:05										
-23:10										
+23:05	창팝용	https://www.youtube.com/watch?v=xcCdNCyqrzM	"2:21 / 2분 / 11시 (5분씩 밀림)"	xcCdNCyqrzM	UC-6V2KF8UierJH9EXkjoQEw	"[창팝] 종이접기"	창팝용	2025-09-26T14:00:00Z	2025-09-26T14:00:06Z	2025-09-26T14:04:28Z
+23:10	상추토끼	https://www.youtube.com/watch?v=mkfvvnkeER0	3:00/1분/11시05분	mkfvvnkeER0	UCtU5w-7gQx-EGELB87XkDBA	"[창팝]엔진체크(Engine check)"	상추토끼	2025-09-26T14:05:00Z	2025-09-26T14:05:06Z	2025-09-26T14:09:33Z
 23:15										
 23:20										
 23:25										
@@ -10,4 +10,5 @@ time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	sch
 23:40										
 23:45										
 23:50										
-23:55										
+23:55		"11시가 보호셀 상태라 한칸씩 밀림(시작은 11시부터)
+부족해지면 여기칸 지우고 사용"								
