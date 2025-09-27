@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
 23:00										
-23:05										
-23:10										
-23:15										
+23:05	리스항르	https://youtu.be/xdFxK0q7NYc?si=XAULVliUOti-W-X_	04:04/2분	xdFxK0q7NYc	UCFkPy1vgducXZysIeR2uwgw	"쌀숭이 - 유일한 악몽"	리스항르	2025-09-27T14:00:00Z	2025-09-27T14:00:06Z	2025-09-27T14:06:33Z
+23:10	물통도정	https://youtu.be/XVl8y_a-3WE	3:13/2분	XVl8y_a-3WE	UCsrInF6CK1bfsnMObuuZHGQ	"노래 좀 뽑아볼까?"	물통도정	2025-09-27T14:05:00Z	2025-09-27T14:05:06Z	2025-09-27T14:10:34Z
+23:15	김dred	https://youtu.be/G89BfiUB4GE	3:33/1분	G89BfiUB4GE	UCTc8W4fbpOKdwRkBsEHRzrQ	"메이플 접어"	김dred	2025-09-27T14:11:00Z	2025-09-27T14:11:05Z	2025-09-27T14:16:03Z
 23:20										
 23:25										
 23:30										
@@ -10,4 +10,6 @@ time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	sch
 23:40										
 23:45										
 23:50										
-23:55										
+23:55		"11시가 보호셀 상태라 한칸씩 밀림(시작은 11시부터)
+부족해지면 여기칸 지우고 사용"	"혹시 상태 1주일 
+이상가면 새로 팜"							
