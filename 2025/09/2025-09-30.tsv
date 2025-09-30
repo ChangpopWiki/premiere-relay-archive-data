@@ -1,13 +1,15 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
 23:00										
-23:05										
-23:10										
+23:05	라이프라인	https://www.youtube.com/watch?v=CoGksVpkbgY&t=54s	11시시작/3분58초/1분	CoGksVpkbgY	UC0J08Ud-fHvVkGqpJgSTeEg	"하얀 까만(White Black)"	라이프라인	2025-09-30T14:00:00Z	2025-09-30T14:00:06Z	2025-09-30T14:05:28Z
+23:10	용슝좍	https://youtu.be/ThhoUnjXUgM	2:19/2분	ThhoUnjXUgM	UCNA0Y7duHiQIoE9l-UC66yQ	"[낙서작] TEMPLATE (Trap)"	용슝좍	2025-09-30T14:05:00Z	2025-09-30T14:05:06Z	2025-09-30T14:09:33Z
 23:15										
-23:20										
+23:20	체포낙	https://www.youtube.com/watch?v=0rmn4dQ1UUA	"3:46 / 2분"	0rmn4dQ1UUA	UCi35WeuD14KkTeCmVmqjDKg	"서버의 넋을 (원곡: 던파 OST - 바람의 너를)"	체포낙	2025-09-30T14:20:00Z	2025-09-30T14:20:21Z	2025-09-30T14:26:27Z
 23:25										
 23:30										
 23:35										
 23:40										
 23:45										
 23:50										
-23:55										
+23:55		"11시가 보호셀 상태라 한칸씩 밀림(시작은 11시부터)
+부족해지면 여기칸 지우고 사용"	"수욜까지 그대로면 해당 링크 
+수정권한 목욜 0시 오픈 "							
