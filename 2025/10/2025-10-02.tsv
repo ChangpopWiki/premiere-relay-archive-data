@@ -1,10 +1,10 @@
 time_slot	column_a	column_b	column_c	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
 23:00										
-23:05		"시트 고장나서 이사감"								
+23:05										
 23:10										
-23:15		"                ↓↓↓↓↓↓↓↓↓↓"								
-23:20		"시트 이전  → 링크 ←"								
-23:25		"                  ↑↑↑↑↑↑↑↑↑↑↑↑"								
+23:15										
+23:20										
+23:25										
 23:30										
 23:35										
 23:40										
