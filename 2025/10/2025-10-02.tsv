@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00				1	복창개사곡							
-23:05												
+23:00	애플우유	https://youtu.be/O8QO5Vo76dg	3:54	1	복창개사곡	O8QO5Vo76dg	UCDHtxrNxQ3GllSaktxkF2vw	"[개사] 탄뮤 - 숭이들이 혐오하는 게 (원곡 AKMU - 사람들이 움직이는 게 HOW PEOPLE MOVE)"	애플우유	2025-10-02T14:00:00Z	2025-10-02T14:00:06Z	2025-10-02T14:05:29Z
+23:05	창팝용	"[창팝] $IN - 닥쳐 (Horrorcore/Neo Boombap)"	2:21	2	"다소 공포주의"							
 23:10												
 23:15												
 23:20												
