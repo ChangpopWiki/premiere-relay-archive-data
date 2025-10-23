@@ -1,10 +1,10 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
-23:20												
-23:25												
+23:00	창스기	https://www.youtube.com/watch?v=2t8Evdhu37A	3:38	1		2t8Evdhu37A	UCHQHYow-wavkS0cunlUrV5A	"[창팝/AI] 이거, 곤란"	창스풀	2025-10-23T14:00:00Z	2025-10-23T14:00:06Z	2025-10-23T14:04:58Z
+23:05	AlphaGo	https://youtu.be/Q9qVhCszqG4	4:03	2		Q9qVhCszqG4	UC_9gqm7fBpWyozpAfmRSINA	"리슝좍 - 가장 재밌는 것"	AlphaGo	2025-10-23T14:05:00Z	2025-10-23T14:05:06Z	2025-10-23T14:11:34Z
+23:10	"브론넷 박사"	https://youtu.be/ukftil09fn4	3:51	2		ukftil09fn4	UCwctujGepiKAYSGn_ctlplg	"[창팝] 언제는 안 그랬니"	"브론넷 박사"	2025-10-23T14:10:00Z	2025-10-23T14:10:06Z	2025-10-23T14:16:06Z
+23:15	리슝기	https://youtu.be/fDrLrvgaRzM	3:08	2		fDrLrvgaRzM	UCA7uMNOR00-1ETfVH6JqWVg	"[사탕팝] 핵노맛 은단사탕"	리슝기	2025-10-23T14:15:00Z	2025-10-23T14:15:06Z	2025-10-23T14:20:28Z
+23:20	창팝용	https://youtu.be/aQRgVIruZL0	3:57	2		aQRgVIruZL0	UC-6V2KF8UierJH9EXkjoQEw	"[EP] Track 4. 끝 (Feat. @Reshangr)"	창팝용	2025-10-23T14:20:00Z	2025-10-23T14:20:22Z	
+23:25	김dred	https://youtu.be/FliLsvyrf-w	4:25	2		FliLsvyrf-w	UCTc8W4fbpOKdwRkBsEHRzrQ	불기둥들	김dred	2025-10-23T14:25:00Z	2025-10-23T14:25:11Z	
 23:30												
 23:35												
 23:40												
