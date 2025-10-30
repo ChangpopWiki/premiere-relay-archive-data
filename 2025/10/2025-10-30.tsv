@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	TailloW	https://youtu.be/H2nsBKPyEfA	4:04	1	"제목 못정함"	H2nsBKPyEfA	UCVo_xwgWdHgCtdYIycCqy-g	"[창팝] 어느 유령의 노래"	TailloW	2025-10-30T14:00:00Z	2025-10-30T14:00:06Z	2025-10-30T14:05:10Z
+23:05	레이지	https://youtu.be/0A8tBVQ0Fx0	4:35	1	"자러가서 링크 못 이음"	0A8tBVQ0Fx0	UC6Yhz_2ciq5Ym3Ojkv9LqCA	ASSEMBLE	레이지	2025-10-30T14:05:00Z	2025-10-30T14:05:06Z	2025-10-30T14:10:40Z
+23:10	물통도정	https://youtu.be/Wz6M4Uy_h88	3:58	1		Wz6M4Uy_h88	UCsrInF6CK1bfsnMObuuZHGQ	"모래성과 낙엽"	물통도정	2025-10-30T14:10:00Z	2025-10-30T14:10:06Z	2025-10-30T14:15:04Z
+23:15	리자예	https://youtu.be/yzqkwtRmuJQ	4:05	2		yzqkwtRmuJQ	UCkwiHDYrZyavDvljLPLAFQA	곡창	리자예	2025-10-30T14:16:00Z	2025-10-30T14:16:06Z	
 23:20												
 23:25												
 23:30												
