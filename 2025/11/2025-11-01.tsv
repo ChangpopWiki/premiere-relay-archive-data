@@ -1,11 +1,11 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
+23:00	"트렌치 블루"	https://youtu.be/jfZDqax1xJY	2:56	1		jfZDqax1xJY	UCh9CR5N8fh6fhzRbdUvcWiA	"REX INFERNI"	"트렌치 블루"	2025-11-01T14:00:00Z	2025-11-01T14:00:06Z	2025-11-01T14:04:02Z
 23:05												
 23:10												
 23:15												
 23:20												
 23:25												
-23:30												
+23:30	맹혜리	https://youtu.be/nrRYJYKK_do	3:41	2		nrRYJYKK_do	UCMyXD9rg7rsUqSMCPy8CWng	"쌀숭이 - 순정 (원곡: 코요태 - 순정)"	맹혜리	2025-11-01T14:30:00Z	2025-11-01T14:30:06Z	
 23:35												
 23:40												
 23:45												
