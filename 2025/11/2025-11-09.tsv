@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	김dred	https://youtu.be/bPpELM0qxoo	2:29	2	창롤	bPpELM0qxoo	UCTc8W4fbpOKdwRkBsEHRzrQ	"Do you want to play maple game"	김dred	2025-11-09T14:00:00Z	2025-11-09T14:00:06Z	2025-11-09T14:04:34Z
+23:05	상추토끼	pinkcustom	2:58	1		JnMclSrU9zw	UCtU5w-7gQx-EGELB87XkDBA	"[창팝]pink custom"	상추토끼	2025-11-09T14:05:00Z	2025-11-09T14:05:06Z	2025-11-09T14:09:03Z
+23:10	김dred	https://youtu.be/pvstbrMpqjs	3:25	1		pvstbrMpqjs	UCTc8W4fbpOKdwRkBsEHRzrQ	"쉰표 fullver"	김dred	2025-11-09T14:10:00Z	2025-11-09T14:10:05Z	2025-11-09T14:14:30Z
+23:15	"트렌치 블루"	https://youtu.be/GhJzukVoUIk	3:15	1		GhJzukVoUIk	UCh9CR5N8fh6fhzRbdUvcWiA	DISORDER	"트렌치 블루"	2025-11-09T14:15:00Z	2025-11-09T14:15:06Z	2025-11-09T14:19:20Z
 23:20												
 23:25												
 23:30												
