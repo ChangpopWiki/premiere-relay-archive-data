@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	리슨퓨어족	https://youtu.be/wAbK0z9kQ2Q	3:33	2		wAbK0z9kQ2Q	UCQoaeuPLmDIRebALnJtAipQ	"다시, 항해 [창팝]"	리슨퓨어족	2025-12-03T14:00:00Z	2025-12-03T14:00:06Z	2025-12-03T14:05:38Z
+23:05	심심	https://youtu.be/Vn4bo8CWYH0	2:03	2		Vn4bo8CWYH0	UCNA0Y7duHiQIoE9l-UC66yQ	"[창팝/실험작] REBOOT Beatbox"	심심	2025-12-03T14:05:00Z	2025-12-03T14:05:06Z	2025-12-03T14:09:09Z
+23:10	김dred	https://youtu.be/LEQQ4U7FA30	2:48	2		LEQQ4U7FA30	UCTc8W4fbpOKdwRkBsEHRzrQ	"이 남자 왜 죽어-[후&팡팝,항팝]"	김dred	2025-12-03T14:10:00Z	2025-12-03T14:10:06Z	2025-12-03T14:14:53Z
 23:15												
 23:20												
 23:25												
