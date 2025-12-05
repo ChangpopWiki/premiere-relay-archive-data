@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	김dred	https://youtu.be/dpDXzwtM-oA	3:53	1		dpDXzwtM-oA	UCTc8W4fbpOKdwRkBsEHRzrQ	"항민트 - 항삐"	김dred	2025-12-05T14:00:00Z	2025-12-05T14:00:06Z	2025-12-05T14:04:59Z
+23:05	나는아무것도몰라요	https://youtu.be/4WQuR6jtwLg	3:11	1		4WQuR6jtwLg	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] MASK OFF"	나는아무것도몰라요	2025-12-05T14:05:00Z	2025-12-05T14:05:06Z	2025-12-05T14:09:17Z
+23:10	DWAET	https://youtu.be/onTQkBohs3A	4:29	1		onTQkBohs3A	UC7GvbrpAQuBOsJMhJggto8Q	"웃어줘요 내일도"	DWAET	2025-12-05T14:10:00Z	2025-12-05T14:10:06Z	2025-12-05T14:15:34Z
+23:15	Selmia	https://www.youtube.com/watch?v=OxyJMIFwMfY	3:28	1		OxyJMIFwMfY	UCECSUa_GaPYQi7CXOAHG5cA	"박자가 와리가리"	Selmia	2025-12-05T14:15:00Z	2025-12-05T14:15:06Z	2025-12-05T14:19:44Z
 23:20												
 23:25												
 23:30												
