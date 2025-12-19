@@ -1,11 +1,11 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00	기랑	"영상제작 후 링크 연결 예정"										
-23:05	기랑	"영상제작 후 링크 연결 예정"										
-23:10	기랑	"영상제작 후 링크 연결 예정"										
-23:15												
-23:20												
-23:25												
-23:30												
+23:00	기랑	https://youtu.be/WNQXjw5ds-U	4:51	1		WNQXjw5ds-U	UC2RNv0F5PgAXldjNwU3eTaA	"[창팝] 털어 (feat. ??, @ETUDENOTE , @도사의길1 , @다하카)"	기랑	2025-12-19T14:00:00Z	2025-12-19T14:00:06Z	2025-12-19T14:05:58Z
+23:05	기랑	https://youtu.be/EYapufjfEOU	5:10	1	"11:06 스타트"	EYapufjfEOU	UC2RNv0F5PgAXldjNwU3eTaA	"[창팝] 말해 뭐해 (feat. @슝1좍 , @이단아 , @Parking_Place , @릴창섭 )"	기랑	2025-12-19T14:06:00Z	2025-12-19T14:06:06Z	2025-12-19T14:12:16Z
+23:10	기랑	https://youtu.be/bDOd61ZDABU	2:55	1	"11:12 스타트"	bDOd61ZDABU	UC2RNv0F5PgAXldjNwU3eTaA	"[창팝] 이별✉️"	기랑	2025-12-19T14:12:00Z	2025-12-19T14:12:06Z	2025-12-19T14:16:02Z
+23:15	체포낙	https://youtu.be/xE8qDgABhHM	3:28	2	"리베카 시리즈"	xE8qDgABhHM	UCi35WeuD14KkTeCmVmqjDKg	"[리베카] 리베카 (REbecca)"	체포낙	2025-12-19T14:15:00Z	2025-12-19T14:15:06Z	2025-12-19T14:20:33Z
+23:20	리스항르	감히	3:20	2		Pb-wP_M8W2g	UCFkPy1vgducXZysIeR2uwgw	감히	리스항르	2025-12-19T14:20:00Z	2025-12-19T14:20:06Z	2025-12-19T14:25:27Z
+23:25	Luisa	"HEAT UP!"	2:38	2		2SIz_3DMmiA	UC5FDZNJfUcB11p2aJog2DJQ	"HEAT UP!"	Luisa	2025-12-19T14:25:00Z	2025-12-19T14:25:06Z	2025-12-19T14:29:38Z
+23:30	심심	Hold	2:33	2		biS9y9rI_ZA	UCNA0Y7duHiQIoE9l-UC66yQ	"쌀숭이 - 꽉 잡아 (Old School Hip-hop Ver.)"	심심	2025-12-19T14:30:00Z	2025-12-19T14:30:06Z	2025-12-19T14:34:39Z
 23:35												
 23:40												
 23:45												
