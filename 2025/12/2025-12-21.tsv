@@ -1,10 +1,10 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
-23:20												
-23:25												
+23:00	sonette	https://www.youtube.com/watch?v=HaK0vIxcmgE	1:19	2		HaK0vIxcmgE	UCtQbO9hhbGLCM7CqEBLocEg	"쌀값좀 살려라"	Sonette	2025-12-21T14:00:00Z	2025-12-21T14:00:06Z	2025-12-21T14:03:25Z
+23:05	창팝용	https://youtu.be/lAJImRTnATs	3:41	1	창타포트	lAJImRTnATs	UC-6V2KF8UierJH9EXkjoQEw	"리슝좍 밴드 - IDIOTS MV I Live Concert Version | @2025 CHANGTAPORT WINTER ROCK FESTIVAL IN PANGYO"	창팝용	2025-12-21T14:05:00Z	2025-12-21T14:05:06Z	2025-12-21T14:09:46Z
+23:10	리슝기	https://youtu.be/l2LzMbDSgy4	3:46	1	창타포트	l2LzMbDSgy4	UCA7uMNOR00-1ETfVH6JqWVg	"251221 앵벌 - Dream job(꿈의 직장) LIVE 직캠 @2025 CHANGTAPORT WINTER ROCK FESTIVAL IN PANGYO"	리슝기	2025-12-21T14:10:00Z	2025-12-21T14:10:06Z	2025-12-21T14:14:51Z
+23:15	발라리안한모금	https://youtu.be/eb3U2ZLNifE?si=inIgnVKqznNelGPq	5:38	1	"창타포트 원곡"	eb3U2ZLNifE	UC9cs5kPKOGMhga8KU6c8SUA	Schadenfreude(샤덴프로이데)	발라리안한모금	2025-12-21T14:15:00Z	2025-12-21T14:15:06Z	2025-12-21T14:21:44Z
+23:20	pie	https://youtu.be/O_53Y1cp1iY?si=e8XaDZfklHjS3dHv	3:32	2		O_53Y1cp1iY	UC746JBWOkITyP1daLaTPnxw	"[창팝]SPREAD YOUR LOVE! (ILLEGAL REMIX)"	π	2025-12-21T14:20:00Z	2025-12-21T14:20:06Z	2025-12-21T14:25:38Z
+23:25	순수창팝	https://youtu.be/yDOE97kwuT0?si=X__5YWeUfholsNV8	3:52	2		yDOE97kwuT0	UC8aoMIE45iMn9LHdMFZ1_kQ	"Ending "	순수창팝	2025-12-21T14:25:00Z	2025-12-21T14:25:06Z	
 23:30												
 23:35												
 23:40												
