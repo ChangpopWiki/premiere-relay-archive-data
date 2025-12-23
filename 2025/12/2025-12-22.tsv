@@ -1,9 +1,9 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00		https://youtu.be/csgH9G3d5Tc				csgH9G3d5Tc	UC7GvbrpAQuBOsJMhJggto8Q	"[복면창팝3] 수건 (카와이 퓨처 베이스 Ver.)"	DWAET	2025-12-22T14:00:00Z	2025-12-22T14:00:06Z	2025-12-22T14:05:06Z
-23:05												
-23:10												
-23:15			2:14									
-23:20												
+23:00	DWAET	https://youtu.be/csgH9G3d5Tc	4:01	1		csgH9G3d5Tc	UC7GvbrpAQuBOsJMhJggto8Q	"[복면창팝3] 수건 (카와이 퓨처 베이스 Ver.)"	DWAET	2025-12-22T14:00:00Z	2025-12-22T14:00:06Z	2025-12-22T14:05:06Z
+23:05	"브론넷 박사"	https://youtu.be/CBOAcqzCKHk	3:21	2		CBOAcqzCKHk	UCwctujGepiKAYSGn_ctlplg	"[창타포트 2025] 정상화의 마술사, 신창섭(live)"	"브론넷 박사"	2025-12-22T14:05:00Z	2025-12-22T14:05:06Z	2025-12-22T14:10:27Z
+23:10	신창섭으로쌀먹하기	https://youtu.be/VnndRAvadpk	4:13	2	개사항팝	VnndRAvadpk	UChVrVFnxa4JEoNrcep0l8TA	"[항팝][항팝대회 출품]...우리형!(원곡: 가황,나훈아선생님""테스형"")"	신창섭으로쌀먹하기	2025-12-22T14:10:00Z	2025-12-22T14:10:06Z	2025-12-22T14:16:18Z
+23:15	심심	https://youtu.be/5F5d9zVDvIA	2:14	3		5F5d9zVDvIA	UCNA0Y7duHiQIoE9l-UC66yQ	"[창팝] God's Love (Digicore)"	심심	2025-12-22T14:15:00Z	2025-12-22T14:15:06Z	2025-12-22T14:20:19Z
+23:20	리스항르	https://youtu.be/Tjg2Bid4K-s	3:00	2	개사렌굴팝	Tjg2Bid4K-s	UCFkPy1vgducXZysIeR2uwgw	"죽탱이 존나 패고싶네"	리스항르	2025-12-22T14:20:00Z	2025-12-22T14:20:05Z	2025-12-22T14:25:06Z
 23:25												
 23:30												
 23:35												
