@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	거울세계신창섭	https://youtu.be/JxdlX_ODUJw	1:40	2		JxdlX_ODUJw	UCRIiq2G1S_FRPkGjEV_APpg	"신창섭 나우 - 메소가격 비상 대책 라이브"	거울세계신창섭	2025-12-25T14:00:00Z	2025-12-25T14:00:05Z	2025-12-25T14:03:45Z
+23:05	나는아무것도몰라요	https://youtu.be/JP4ftUNA0Bk	4:08	1		JP4ftUNA0Bk	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] 비수"	나는아무것도몰라요	2025-12-25T14:05:00Z	2025-12-25T14:05:06Z	2025-12-25T14:10:13Z
+23:10	대노코부계정	https://youtu.be/DI7vR4EfZ0U	3:08	2		DI7vR4EfZ0U	UCfaY7BjYBQvrBQZi_Rk5L3Q	그린그림	대노코부계정	2025-12-25T14:10:00Z	2025-12-25T14:10:06Z	2025-12-25T14:15:14Z
+23:15	pie.	https://youtu.be/nkY19su9I0k?si=Tgr75RanwpWT7IAH	20:30	2		nkY19su9I0k	UC746JBWOkITyP1daLaTPnxw	폐기작들	π	2025-12-25T14:15:00Z	2025-12-25T14:15:06Z	2025-12-25T14:37:37Z
 23:20												
 23:25												
 23:30												
@@ -10,4 +10,4 @@ time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title
 23:40												
 23:45												
 23:50												
-23:55												
+23:55	체포낙	https://www.youtube.com/watch?v=2a95_Vwkt6E	4:28	1		2a95_Vwkt6E	UCi35WeuD14KkTeCmVmqjDKg	"Titled (有題) 4K LIVE (원곡: Untitled (無題))"	체포낙	2025-12-25T14:55:00Z		
