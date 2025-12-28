@@ -1,7 +1,9 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
+23:00	레이지	https://youtu.be/AqRB2dNvj24	3:00	2	"최공릴레이 종료 후
+재업로드 예정"	AqRB2dNvj24						
 23:05												
-23:10												
+23:10	"자정의 바다"	https://youtu.be/vO4gW-w0quM	4:02	2	"디스전 답가
+백업성 재업로드"	vO4gW-w0quM	UCbE0eT4XmQ2IOBiceqKJ4yQ	"[답가] 지평"	"자정의 바다"	2025-12-28T13:10:00Z	2025-12-28T13:10:06Z	2025-12-28T13:16:08Z
 23:15												
 23:20												
 23:25												

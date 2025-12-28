@@ -1,9 +1,9 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00	"SSAL LABEL(쌀 레이블)"											
-23:05	김dred											
-23:10												
-23:15												
-23:20												
+23:00	"SSAL LABEL(쌀 레이블)"	https://youtu.be/nXSF8Uy1ezM	3:16	1	"자막 O"	nXSF8Uy1ezM	UCUsvpAZAf5DRNYmgW1h2Z0w	"쌀 레이블(SSAL LABEL) - 쌀수라(Official MV)"	"SSAL LABEL"	2025-12-27T14:00:00Z	2025-12-27T14:00:06Z	2025-12-27T14:04:22Z
+23:05	김dred	https://youtu.be/SSNbJRfFjVA	1:49	2		SSNbJRfFjVA	UCTc8W4fbpOKdwRkBsEHRzrQ	"죽어요~ 죽어요~ 우리형 또! 죽어요~"	김dred	2025-12-27T14:05:00Z	2025-12-27T14:05:06Z	2025-12-27T14:08:54Z
+23:10	리슨퓨어족	https://youtu.be/d1JiUSnOAns	3:15	1		d1JiUSnOAns	UCQoaeuPLmDIRebALnJtAipQ	"진정한 신 [창팝]"	리슨퓨어족	2025-12-27T14:10:00Z	2025-12-27T14:10:06Z	2025-12-27T14:14:20Z
+23:15	NATi	#2	2:40	2		Ew_ENPx4PiQ	UCBwi7cYOdBRpjs-XDrI_Oag	"[창팝] #2"	NATi	2025-12-27T14:15:00Z	2025-12-27T14:15:06Z	2025-12-27T14:19:51Z
+23:20	심심	https://youtu.be/cLc2dm88BSg	3:14	2		cLc2dm88BSg	UCNA0Y7duHiQIoE9l-UC66yQ	Present,	심심	2025-12-27T14:20:00Z	2025-12-27T14:20:06Z	2025-12-27T14:25:20Z
 23:25												
 23:30												
 23:35												
