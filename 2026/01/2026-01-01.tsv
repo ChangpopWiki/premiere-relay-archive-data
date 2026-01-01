@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	렌슝좍	Lucid	5:20	2		VI6I63nCQ3I	UCcsFJhP7ay5dthUuClp6s7w	Lucid	렌슝좍	2026-01-01T14:00:00Z	2026-01-01T14:00:06Z	2026-01-01T14:07:26Z
+23:05	렌슝좍											
+23:10	pie.	https://youtu.be/_SKI2PVeDxY?si=JNhPmx2agqgmSE9W	3:37	2		_SKI2PVeDxY	UC746JBWOkITyP1daLaTPnxw	2026	π	2026-01-01T14:07:00Z	2026-01-01T14:07:06Z	2026-01-01T14:12:44Z
 23:15												
 23:20												
 23:25												
