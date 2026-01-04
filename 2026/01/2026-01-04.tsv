@@ -1,11 +1,11 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
-23:20												
-23:25												
-23:30												
+23:00	김dred	https://youtu.be/ydDnSTwd6Tk	3:47	1		ydDnSTwd6Tk	UCTc8W4fbpOKdwRkBsEHRzrQ	MAMA	김dred	2026-01-04T14:00:00Z	2026-01-04T14:00:06Z	2026-01-04T14:04:53Z
+23:05	김dred	https://www.youtube.com/watch?v=6P_OG1EWYU4	3:05	1		6P_OG1EWYU4	UCTc8W4fbpOKdwRkBsEHRzrQ	"우리 형이여"	김dred	2026-01-04T14:05:00Z	2026-01-04T14:05:06Z	2026-01-04T14:09:10Z
+23:10		"(찐빠로 인해 폭파 죄송합니다)"										
+23:15	QZE	https://youtu.be/8y7eMR3BfBM?si=S4-PPyKN1LE1TPY9	3:36	1		8y7eMR3BfBM	UCVDe36n79-ZwcFxHYwxwtHA	"Gray Director Ulitimate Changman Final Battle Remixed by QZE"	QZE	2026-01-04T14:15:00Z	2026-01-04T14:15:06Z	2026-01-04T14:19:42Z
+23:20	나는아무것도몰라요	https://youtu.be/tA1D2w95N7U	3:15	1		tA1D2w95N7U	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] Dancing With Ghosts"	나는아무것도몰라요	2026-01-04T14:20:00Z	2026-01-04T14:20:05Z	2026-01-04T14:24:21Z
+23:25	낙서장	https://youtu.be/ECe-3dBoiQU?si=0iyH8H3tunIrWRxJ	2:43	2		ECe-3dBoiQU	UCsdP8THHYHKG2AO6Ue94O5A	"[신창섭] 광창시장"	낙서장	2026-01-04T14:25:00Z	2026-01-04T14:25:06Z	2026-01-04T14:29:48Z
+23:30	e3z	https://youtu.be/mi5u4BUUaao	3:11	1		mi5u4BUUaao	UCZaVG53g9DvvzjNLp2qfHQQ	"[창팝] 체념"	e3z	2026-01-04T14:30:00Z	2026-01-04T14:30:06Z	2026-01-04T14:34:17Z
 23:35												
 23:40												
 23:45												
