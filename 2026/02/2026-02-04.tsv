@@ -1,11 +1,11 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
-23:20												
-23:25												
-23:30												
+23:00	나는아무것도몰라요	https://youtu.be/l9fAdUZCIdE	3:15	1		l9fAdUZCIdE	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] 우리들의 이야기"	나는아무것도몰라요	2026-02-04T14:00:00Z	2026-02-04T14:00:05Z	2026-02-04T14:04:20Z
+23:05	X급뮤직	https://youtu.be/JYdp94hP2_Y	2:46	2		JYdp94hP2_Y	UC2VYOSZfJgPi3IC1RSFjOEw	"당신에게 Coin Toss"	X급뮤직	2026-02-04T14:05:00Z	2026-02-04T14:05:06Z	2026-02-04T14:09:52Z
+23:10	일쩜비포	https://www.youtube.com/watch?v=kytN4vsQdCo	11:13	1		kytN4vsQdCo	UClxT09MgWm_xsiVAMbJeTxQ	"1년 늦은 Q&A 막차 + 유디오 장례식"	일쩜비포	2026-02-04T14:10:00Z	2026-02-04T14:10:06Z	2026-02-04T14:22:19Z
+23:15	일쩜비포	https://www.youtube.com/watch?v=kytN4vsQdCo				kytN4vsQdCo	UClxT09MgWm_xsiVAMbJeTxQ	"1년 늦은 Q&A 막차 + 유디오 장례식"	일쩜비포	2026-02-04T14:10:00Z	2026-02-04T14:10:06Z	2026-02-04T14:22:19Z
+23:20	일쩜비포	https://www.youtube.com/watch?v=kytN4vsQdCo				kytN4vsQdCo	UClxT09MgWm_xsiVAMbJeTxQ	"1년 늦은 Q&A 막차 + 유디오 장례식"	일쩜비포	2026-02-04T14:10:00Z	2026-02-04T14:10:06Z	2026-02-04T14:22:19Z
+23:25	pie	https://youtu.be/HSR99Bz5-tw?si=JOlhYsjoBCd_Wj4E	5:52	2		HSR99Bz5-tw	UC746JBWOkITyP1daLaTPnxw	"커튼콜(ILLEGAL REMIX)"	ᚂ	2026-02-04T14:22:00Z	2026-02-04T14:22:06Z	2026-02-04T14:29:58Z
+23:30	DWAET	https://youtu.be/r1zbK_I2rOc	4:03	1		r1zbK_I2rOc	UC7GvbrpAQuBOsJMhJggto8Q	"신창섭 - 편해 (J-Rock Remix)"	DWAET	2026-02-04T14:30:00Z	2026-02-04T14:30:06Z	
 23:35												
 23:40												
 23:45												
