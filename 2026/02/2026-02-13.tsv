@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
+23:00	DWAET	https://youtu.be/v_3GifN8MNo	4:04	1		v_3GifN8MNo	UC7GvbrpAQuBOsJMhJggto8Q	"쌀숭이- 나의 삶이 죽어가고 있잖아 (Electro Swing Remix)"	DWAET	2026-02-13T14:00:00Z	2026-02-13T14:00:06Z	
+23:05	리스항르	https://youtu.be/fmHD2G1KqVs	4:44	2		fmHD2G1KqVs	UCFkPy1vgducXZysIeR2uwgw	"쌀숭이 - 탈세는 범죄가 아니야"	리스항르	2026-02-13T14:04:00Z	2026-02-13T14:04:06Z	
 23:10												
 23:15												
 23:20												
