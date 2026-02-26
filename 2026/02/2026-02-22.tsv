@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00					날먹..							
-23:05												
+23:00	SSL	https://www.youtube.com/watch?v=xR1N-NBSiZM&t=3s	2:55	1	날먹..	xR1N-NBSiZM	UC30LcJMWHdpdZX6Y0PcWEFA	Frankenstein	SSLIT	2026-02-22T14:00:00Z	2026-02-22T14:00:06Z	2026-02-22T14:04:01Z
+23:05	SSL	https://www.youtube.com/watch?v=sI7fbd9dnsI	2:43	1	날먹..	sI7fbd9dnsI	UC30LcJMWHdpdZX6Y0PcWEFA	Recollection	SSLIT	2026-02-22T14:05:00Z	2026-02-22T14:05:05Z	2026-02-22T14:08:48Z
 23:10												
 23:15												
 23:20												
