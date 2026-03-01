@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	리슨퓨어족	https://youtu.be/pYuhtSWTqv0	4:08	2		pYuhtSWTqv0	UCQoaeuPLmDIRebALnJtAipQ	"리슨족 - 아랫마을 [창팝]"	리슨퓨어족	2026-03-01T14:00:00Z	2026-03-01T14:00:06Z	2026-03-01T14:06:13Z
+23:05	머미슝좍	https://youtu.be/3fm2lSXAi0k	3:07	2		3fm2lSXAi0k	UCS7q34wxwIxtezOXztLpMCw	"순환의 광대"	머미슝좍	2026-03-01T14:05:00Z	2026-03-01T14:05:06Z	2026-03-01T14:10:13Z
+23:10	ㅎㄹㅁ	https://youtu.be/WXnBM2_AFOU	3:02	2		WXnBM2_AFOU	UC9ahKvtN85weJDYOhF8vLgA	"쌀숭이K - Machine (원곡: EK - Machine)"	ㅎㄹㅁ	2026-03-01T14:10:00Z	2026-03-01T14:10:06Z	2026-03-01T14:15:07Z
+23:15	리플족	https://www.youtube.com/watch?v=3nXu9KwKTNc	4:13	1		3nXu9KwKTNc	UCTI9DA662wkFp3_QPuBHXpA	"[NCS] 인포딕 - 다 해줬잖아 (REMIX by 리플족)"	리플족	2026-03-01T14:15:00Z	2026-03-01T14:15:05Z	
 23:20												
 23:25												
 23:30												

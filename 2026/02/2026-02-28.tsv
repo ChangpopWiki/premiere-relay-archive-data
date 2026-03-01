@@ -1,11 +1,11 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00	아무생각없음											
-23:05	리슝기											
-23:10												
-23:15												
-23:20												
-23:25												
-23:30												
+23:00	아무생각없음	https://youtu.be/WujebLPGPEw	2:54	2	노랑통닭	WujebLPGPEw	UCeI1wTYnS3lUL4C2jC06KPg	"The Orbis"	아무생각없는거같기도하고아닌거같기도	2026-02-28T14:00:00Z	2026-02-28T14:00:06Z	2026-02-28T14:04:59Z
+23:05	리슝기	https://youtu.be/0OxFlRxCQt0	3:25	2		0OxFlRxCQt0	UCA7uMNOR00-1ETfVH6JqWVg	"쌀더지 - 리부트 서버는 왜 두 개일까"	리슝기	2026-02-28T14:05:00Z	2026-02-28T14:05:05Z	2026-02-28T14:10:30Z
+23:10	나락에나락	https://youtu.be/jom3TIYVrvQ	3:07	2		jom3TIYVrvQ	UCdNadM19-ZbQB8lDYBnIA3Q	"[창팝] 말 말 말"	나락에나락	2026-02-28T14:10:00Z	2026-02-28T14:10:06Z	2026-02-28T14:15:14Z
+23:15	WHLilly	https://www.youtube.com/watch?v=YGQiJNnQ7zs	2:22	2		YGQiJNnQ7zs	UCeLDRGHGmkQMLm27nLxU9nQ	ILLURENATi	WHLilly	2026-02-28T14:15:00Z	2026-02-28T14:15:06Z	2026-02-28T14:19:29Z
+23:20	레이지	https://youtu.be/WNUJb_860EQ	3:38	2		WNUJb_860EQ	UC6Yhz_2ciq5Ym3Ojkv9LqCA	경험담	레이지	2026-02-28T14:20:00Z	2026-02-28T14:20:06Z	2026-02-28T14:25:43Z
+23:25	리멤브란서족	https://youtu.be/6QfM8lgIGKA?si=ID79v5P9jMOmho99	2:02	1	설상월	6QfM8lgIGKA	UCyubHegqy_VnUcyvB1Glo5Q	"[쇼미더창팝 시즌1] 참가자 모집"	리멤브란서족	2026-02-28T14:25:00Z	2026-02-28T14:25:06Z	2026-02-28T14:28:07Z
+23:30	김dred	https://youtu.be/WqIC3yfRIR0	3:18	1		WqIC3yfRIR0	UCTc8W4fbpOKdwRkBsEHRzrQ	"[메교남] - 써굴팡클"	김dred	2026-02-28T14:30:00Z	2026-02-28T14:30:05Z	2026-02-28T14:34:23Z
 23:35												
 23:40												
 23:45												
