@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	4lt3r	https://www.youtube.com/watch?v=-QI3mMknX9I	2:13	2		-QI3mMknX9I	UC8cI3OGG585QFj7WfcRwWsg	"Infinite Journey"	4lt3r	2026-03-02T14:00:00Z	2026-03-02T14:00:06Z	2026-03-02T14:04:19Z
+23:05	나는아무것도몰라요	https://youtu.be/2Z-W0nx0oEk	3:38	1		2Z-W0nx0oEk	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] REDRUM"	나는아무것도몰라요	2026-03-02T14:05:00Z	2026-03-02T14:05:05Z	2026-03-02T14:09:43Z
+23:10	"하얀 설"	https://youtu.be/-pgxwxNE1K8	3:14	2		-pgxwxNE1K8	UCtLE7Mqcst1Itu9408t_PMg	"[메이플] 대이요 & 리주범 - 꺼지세요! "	"까만 설"	2026-03-02T14:10:00Z	2026-03-02T14:10:05Z	2026-03-02T14:15:20Z
+23:15	나락에나락	https://youtu.be/e4Kcg6ARxeY	3:29	2		e4Kcg6ARxeY	UCdNadM19-ZbQB8lDYBnIA3Q	"[창팝] 불새"	나락에나락	2026-03-02T14:15:00Z	2026-03-02T14:15:05Z	
 23:20												
 23:25												
 23:30												
