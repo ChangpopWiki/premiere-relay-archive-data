@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
+23:00	DWAET	https://youtu.be/cGeaZ2-PBwA	2:56	2		cGeaZ2-PBwA	UC7GvbrpAQuBOsJMhJggto8Q	"MevenNam - Henesys, Where I Met You | Chiptune"	DWAET	2026-03-03T14:00:00Z	2026-03-03T14:00:06Z	2026-03-03T14:05:06Z
+23:05	DWAET	https://youtu.be/S1qe0nMfJVI	2:27	2		S1qe0nMfJVI	UC7GvbrpAQuBOsJMhJggto8Q	"메벤남 - 널 처음 만난 헤네시스 (Chiptune Remix)"	DWAET	2026-03-03T14:05:00Z	2026-03-03T14:05:06Z	2026-03-03T14:09:32Z
 23:10												
 23:15												
 23:20												
