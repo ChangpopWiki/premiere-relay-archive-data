@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	물통도정	https://youtu.be/cSFdJakd_IE?si=rbTa8U6La1XkJ8JW	4:25	1		nOHg3p-N_RY	UCX-CL5Vq5pzQMwh6a-ujuKQ	"[메이플] 메벤남 - Red-Sign"	메벤남	2026-03-05T14:05:00Z	2026-03-05T14:05:06Z	2026-03-05T14:09:00Z
+23:05	메벤남	https://youtu.be/nOHg3p-N_RY	2:55	1		nOHg3p-N_RY	UCX-CL5Vq5pzQMwh6a-ujuKQ	"[메이플] 메벤남 - Red-Sign"	메벤남	2026-03-05T14:05:00Z	2026-03-05T14:05:06Z	2026-03-05T14:09:00Z
+23:10	낙서장	https://www.youtube.com/watch?v=LV1SfYN0WVI				LV1SfYN0WVI	UCsdP8THHYHKG2AO6Ue94O5A	X창섭	낙서장	2026-03-05T14:10:00Z	2026-03-05T14:10:06Z	
 23:15												
 23:20												
 23:25												
