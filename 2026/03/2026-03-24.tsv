@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	물통도정	https://youtu.be/p_25vomZ2g8	3:30	2		p_25vomZ2g8	UCsrInF6CK1bfsnMObuuZHGQ	"[창팝] 靑 - 창염의 장미 (完)"	물통도정	2026-03-24T14:00:00Z	2026-03-24T14:00:06Z	2026-03-24T14:05:35Z
+23:05	ㆀ	https://youtu.be/q9KVKwQ3P-0	0:02:17	2		q9KVKwQ3P-0	UCFtoyZ1Ng5J7CEJ-0r--DZw	"쌀 다 파는 법 [아야츠노 유니 - 내꺼 하는 법]"	ㆀ	2026-03-24T14:05:00Z	2026-03-24T14:05:06Z	2026-03-24T14:09:22Z
+23:10	메리	https://youtu.be/W0NGlBhZmvQ	3:10	1	"첫 곡"	W0NGlBhZmvQ	UC5CgqSsgp1lw-PAmymh2pVw	"[창팝] 밤이 지나가도"	메리	2026-03-24T14:10:00Z	2026-03-24T14:10:06Z	2026-03-24T14:14:16Z
+23:15	"습작노트 / ETUDENOTE"	https://youtu.be/-8wRoiWCfnU	3:15	2		-8wRoiWCfnU	UCDHfRJlvI3yA5R5zOfLl6CA	"늦봄 Tarda primavera"	"습작노트 / ETUDENOTE"	2026-03-24T14:15:00Z	2026-03-24T14:15:21Z	
 23:20												
 23:25												
 23:30												
