@@ -1,9 +1,10 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
+23:00		"그냥 10분부터 출발할게요. 11시 있는줄 알았음"										
 23:05												
-23:10												
+23:10	리슝기	https://www.youtube.com/watch?v=ljUafZM7tkA	2:20	2		ljUafZM7tkA	UCA7uMNOR00-1ETfVH6JqWVg	"[창팝] 봄동숭이"	리슝기	2026-03-30T14:10:00Z	2026-03-30T14:10:06Z	2026-03-30T14:14:15Z
 23:15												
-23:20												
+23:20	아드레날린	"팔아(Feat. 키엘리니빠)
+https://youtu.be/1Uvy3WlT7sw"	3.27	2		1Uvy3WlT7sw	UC_dYoOlM5vw6FToAv3fSIjg	"팔아(Feat. 키엘리니빠)"	아드레날린	2026-03-30T14:20:00Z	2026-03-30T14:20:06Z	2026-03-30T14:26:33Z
 23:25												
 23:30												
 23:35												
