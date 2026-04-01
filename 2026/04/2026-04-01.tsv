@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	창섭이	https://youtu.be/AtwzdcFlny4	2:31	2		AtwzdcFlny4	UCGpz7I5JEixbGWA6dN65VsQ	"April first"	창섭이	2026-04-01T14:00:00Z	2026-04-01T14:00:06Z	2026-04-01T14:04:38Z
+23:05	"브론넷 박사"	https://youtu.be/BtEOBPbrS_4	4:07	1		BtEOBPbrS_4	UCwctujGepiKAYSGn_ctlplg	"쌀보(SALbo) - 좋잖아"	"브론넷 박사"	2026-04-01T14:05:00Z	2026-04-01T14:05:06Z	2026-04-01T14:10:12Z
+23:10	리슝기	https://youtu.be/VTbn71Z7kRE	2:04	2		VTbn71Z7kRE	UCA7uMNOR00-1ETfVH6JqWVg	"[심약자 주의] 만우절 기념 기가창섭 비키니"	리슝기	2026-04-01T14:10:00Z		
 23:15												
 23:20												
 23:25												
