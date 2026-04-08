@@ -1,13 +1,13 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
-23:20												
-23:25												
-23:30												
-23:35												
-23:40												
+23:00	렌슝좍	https://youtu.be/dSXKuyZJ5ew	3:01	2		dSXKuyZJ5ew	UCcsFJhP7ay5dthUuClp6s7w	$ollar	렌슝좍	2026-04-08T14:00:00Z	2026-04-08T14:00:06Z	2026-04-08T14:05:07Z
+23:05	pretty_	https://youtu.be/zdXQyBBGiIk?si=Ma4hhpq0HAX2N_kb	22:17	2		zdXQyBBGiIk	UCTHm_CK_o2ucUYQ38e7i3Ig	"DEDICATED TO YOU"	pretty_	2026-04-08T14:05:00Z	2026-04-08T14:05:06Z	2026-04-08T14:29:23Z
+23:10	""""											
+23:15	""""											
+23:20	""""											
+23:25	""""											
+23:30	"하얀설 & 메벤남"	https://youtu.be/vZQgZ2HVGEk	4:00	1		vZQgZ2HVGEk	UCJPFcmtKH5q9QPf8QAa-sfQ	"[창팝] 리선족 - 잠들어라, 테라리움(おやすみ、テラリウム)"	"하얀 설"	2026-04-08T14:30:00Z	2026-04-08T14:30:06Z	2026-04-08T14:35:06Z
+23:35	리슨퓨어족	https://youtu.be/N5BJ91tQ-Mo	3:04	2		N5BJ91tQ-Mo	UCQoaeuPLmDIRebALnJtAipQ	"쌀숭이 - 메이플방위본부 [창팝]"	리슨퓨어족	2026-04-08T14:35:00Z	2026-04-08T14:35:06Z	2026-04-08T14:40:10Z
+23:40	리슨퓨어족	https://youtu.be/-_DszCjDGxs	3:02	1		-_DszCjDGxs	UCQoaeuPLmDIRebALnJtAipQ	"쌀숭이 - 메이플방위본부(?) [창팝]"	리슨퓨어족	2026-04-08T14:40:00Z	2026-04-08T14:40:06Z	2026-04-08T14:44:08Z
 23:45												
 23:50												
 23:55												
