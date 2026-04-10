@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05			3:07									
-23:10			4:28									
+23:00	"Black Friday"	https://youtu.be/613dxn_Oug8	0:33	1		613dxn_Oug8	UCFkTmD_UnVb9NSc3B30Chlw	"비글 피플 - 쌀먹맨 (빌리지 피플 - Macho man)"	"Black Friday"	2026-04-09T14:00:00Z	2026-04-09T14:00:06Z	2026-04-09T14:01:38Z
+23:05	리ᄉퟄᆫ좍	https://youtu.be/Va2S-4rmEv8	3:07	1		Va2S-4rmEv8	UCUPvEC47YXCibYHotpSur7g	역행	리ᄉퟄᆫ좍	2026-04-09T14:05:00Z	2026-04-09T14:05:06Z	2026-04-09T14:09:14Z
+23:10	리데오	https://youtu.be/SZEjXMn65rE	4:28	1		SZEjXMn65rE	UCGJf0BMCFNerAZy8AKNd87g	BEAUTIFULLY	리데오	2026-04-09T14:10:00Z	2026-04-09T14:10:06Z	2026-04-09T14:15:33Z
 23:15												
 23:20												
 23:25												
