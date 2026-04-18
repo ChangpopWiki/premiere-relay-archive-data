@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
+23:00	"브론넷 박사"	https://youtu.be/4j54NbaTlWU	3:21	2		4j54NbaTlWU	UCwctujGepiKAYSGn_ctlplg	"다시, 만나자"	"브론넷 박사"	2026-04-18T14:00:00Z	2026-04-18T14:00:06Z	2026-04-18T14:05:26Z
+23:05	머미슝좍	https://youtu.be/9YBTEbeIREs	2:17	1		9YBTEbeIREs	UCS7q34wxwIxtezOXztLpMCw	"신의 낙원"	머미슝좍	2026-04-18T14:05:00Z	2026-04-18T14:05:06Z	2026-04-18T14:08:23Z
 23:10												
 23:15												
 23:20												
