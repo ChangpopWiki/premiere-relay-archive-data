@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	이단아	https://youtu.be/TBVIS1PIU4I?si=S0wqm34xjXdhwoEW	4:04	2		TBVIS1PIU4I	UCN0oSeuRcCR6Vq1fBJqCE7Q	"[창팝] 벽 (Feat. 도사의 길, 뷁 · 다혜)"	이단아	2026-05-02T14:00:00Z	2026-05-02T14:00:06Z	2026-05-02T14:06:10Z
+23:05	물통도정	https://youtu.be/aX1Qk-FAqVs	3:32	2		aX1Qk-FAqVs	UCsrInF6CK1bfsnMObuuZHGQ	"Worth a Rainy day (레이니 데이)"	물통도정	2026-05-02T14:05:00Z	2026-05-02T14:05:06Z	2026-05-02T14:10:38Z
+23:10	"A라는 I"	https://youtu.be/SBTfnuDMuOY	3:06	1		SBTfnuDMuOY	UCV1ns2hM3YFP7AuecOf2Gpg	"바다에 떠밀려서"	"A라는 I"	2026-05-02T14:10:00Z	2026-05-02T14:10:06Z	2026-05-02T14:14:11Z
 23:15												
 23:20												
 23:25												
