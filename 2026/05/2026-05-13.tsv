@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	순수창팝	https://youtu.be/L6SoSST9vuk?si=Z4-GT7QbBEtCHuMf	2:48	2		L6SoSST9vuk	UC8aoMIE45iMn9LHdMFZ1_kQ	"모두 잠수 준비"	순수창팝	2026-05-13T14:00:00Z	2026-05-13T14:00:06Z	2026-05-13T14:04:54Z
+23:05	대가리텅텅	https://youtu.be/eQEf-on2E0w	5;16	1		eQEf-on2E0w	UCeI1wTYnS3lUL4C2jC06KPg	"[창팝]빈감정과 빈센트"	아무생각없는거같기도하고아닌거같기도	2026-05-13T14:05:00Z	2026-05-13T14:05:06Z	2026-05-13T14:11:22Z
+23:10	춤출까요	https://youtu.be/YLb8GHnKBbc	4:00	2		YLb8GHnKBbc	UCK8NhcIs4HMXRKf_TUsDCZA	시소시소	춤출까요	2026-05-13T14:10:00Z	2026-05-13T14:10:06Z	
 23:15												
 23:20												
 23:25												
