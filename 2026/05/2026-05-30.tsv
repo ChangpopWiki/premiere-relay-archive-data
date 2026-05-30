@@ -1,8 +1,8 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
-23:15												
+23:00	물통도정	https://youtu.be/Cufg7TIQbP0	3:42	2		Cufg7TIQbP0	UCsrInF6CK1bfsnMObuuZHGQ	"쿠오 바디스 (어디로 가십니까?)"	물통도정	2026-05-30T14:00:00Z	2026-05-30T14:00:06Z	2026-05-30T14:05:48Z
+23:05	물통도정	https://youtu.be/pu54n6Wtvgo	3:13	2		pu54n6Wtvgo	UCsrInF6CK1bfsnMObuuZHGQ	"김창 워리어 - 신 김 치"	물통도정	2026-05-30T14:05:00Z	2026-05-30T14:05:06Z	2026-05-30T14:10:18Z
+23:10	AlphaGo	https://youtu.be/h515U_Ue66E	3:17	1		h515U_Ue66E	UC_9gqm7fBpWyozpAfmRSINA	"[창팝] 리더"	AlphaGo	2026-05-30T14:10:00Z	2026-05-30T14:10:06Z	2026-05-30T14:14:22Z
+23:15	Sønel²	https://www.youtube.com/watch?v=rvBuQ0d2Syg	3:15	1		rvBuQ0d2Syg	UC8cI3OGG585QFj7WfcRwWsg	"Sønel² VS Ŋx̌ - Liberalism"	4lt3r	2026-05-30T14:15:00Z	2026-05-30T14:15:06Z	2026-05-30T14:19:21Z
 23:20												
 23:25												
 23:30												
