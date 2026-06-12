@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	나는아무것도몰라요	https://youtu.be/3DZwjYb-GYQ	4:20	1		3DZwjYb-GYQ	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] 마법소녀 신창섭"	나는아무것도몰라요	2026-06-12T14:00:00Z	2026-06-12T14:00:06Z	2026-06-12T14:05:25Z
+23:05	duRE	https://youtu.be/ffnp4XBJ_p4	2:38	2		ffnp4XBJ_p4	UCBwzlC5kpqxfCstwgm-04KA	"그가 대머리가 되면 좋겠어"	DUre	2026-06-12T14:05:00Z	2026-06-12T14:05:06Z	2026-06-12T14:09:44Z
+23:10	설상월	https://youtu.be/S9-u570nWMg	2:25	1		S9-u570nWMg	UCQhtKWUKT4DnmAaTGOOChsg	"[만우절 특집] OK, I'M QUIT IT."	설상월	2026-06-12T14:10:00Z	2026-06-12T14:10:06Z	2026-06-12T14:13:30Z
 23:15												
 23:20												
 23:25												
