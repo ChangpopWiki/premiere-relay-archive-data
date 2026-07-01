@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: 저장소 체크아웃
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: 서버에서 변경사항 가져오기
         env:
