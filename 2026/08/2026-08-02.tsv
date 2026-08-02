@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	100ktozero	https://youtu.be/hQKuteeYEAs	3:46	1	"2026 창타포트 썸머 미수록"	hQKuteeYEAs	UC4wJ20RKYaaA_v7WjFCBqww	"[2026 창타포트 Summer 미수록곡] Rosa Arvensis (들장미)"	100ktozero	2026-08-02T14:00:00Z	2026-08-02T14:00:06Z	2026-08-02T14:04:51Z
+23:05	나는아무것도몰라요	https://youtu.be/UGAdShDh2_Q	2:45	1		UGAdShDh2_Q	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] RUN TO YOU - Song by. X슝좍 (feat. 나는아무것도몰라요)"	나는아무것도몰라요	2026-08-02T14:05:00Z	2026-08-02T14:05:06Z	2026-08-02T14:08:50Z
+23:10	체포낙	https://youtu.be/8RGIZ3DxXdI	3:10	2		8RGIZ3DxXdI	UCi35WeuD14KkTeCmVmqjDKg	"신창섭 - 모나리자"	체포낙	2026-08-02T14:10:00Z	2026-08-02T14:10:06Z	
 23:15												
 23:20												
 23:25												
