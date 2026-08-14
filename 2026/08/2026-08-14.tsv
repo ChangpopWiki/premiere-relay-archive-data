@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
+23:00	리스항르	https://youtu.be/PvUEWC8iaVI	3:52	2		PvUEWC8iaVI	UCFkPy1vgducXZysIeR2uwgw	"신창섭 - 경메사"	리스항르	2026-08-14T14:00:00Z	2026-08-14T14:00:06Z	2026-08-14T14:05:59Z
+23:05	나는아무것도몰라요	https://youtu.be/nd2UETBGFkg	5:36	1		nd2UETBGFkg	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] STAIN"	나는아무것도몰라요	2026-08-14T14:05:00Z	2026-08-14T14:05:06Z	
 23:10												
 23:15												
 23:20												
