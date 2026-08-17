@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
+23:00	DWAET	https://youtu.be/g_XmPO-kG3o	2:41	2		g_XmPO-kG3o	UC7GvbrpAQuBOsJMhJggto8Q	"[창팝] 원해, 신"	DWAET	2026-08-17T14:00:00Z	2026-08-17T14:00:06Z	2026-08-17T14:04:47Z
+23:05	"SSAL LABEL"	https://youtu.be/2rvXWP5Gz14	3:49	1		2rvXWP5Gz14	UCUsvpAZAf5DRNYmgW1h2Z0w	"쌀숭이 - 변종 쌀숭이(Official Lyric Video)"	"SSAL LABEL"	2026-08-17T14:05:00Z	2026-08-17T14:05:06Z	2026-08-17T14:09:54Z
 23:10												
 23:15												
 23:20												
