@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	체포낙	https://youtu.be/pDBh9SwwlXg	2:06	2		pDBh9SwwlXg	UCi35WeuD14KkTeCmVmqjDKg	"God Chang-seop Phonk 🐒☠️"	체포낙	2026-09-06T14:00:00Z	2026-09-06T14:00:05Z	2026-09-06T14:04:11Z
+23:05	리슨퓨어족	https://youtu.be/1ZXYlcmLjak	3:43	1		1ZXYlcmLjak	UCQoaeuPLmDIRebALnJtAipQ	"노래 좀 부르라고 신창섭 [창팝]"	리슨퓨어족	2026-09-06T14:05:00Z	2026-09-06T14:05:06Z	2026-09-06T14:09:48Z
+23:10	"하얀 설"	https://www.youtube.com/watch?v=u9X2Lw66rks	3:45	1		u9X2Lw66rks	UCJPFcmtKH5q9QPf8QAa-sfQ	"여름과 휴식 MV"	"하얀 설"	2026-09-06T14:10:00Z	2026-09-06T14:10:21Z	
 23:15												
 23:20												
 23:25												
