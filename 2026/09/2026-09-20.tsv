@@ -1,9 +1,9 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00	체포낙	https://youtu.be/oxQ1kP6gHfQ	3:24	2		oxQ1kP6gHfQ	UCi35WeuD14KkTeCmVmqjDKg	"신창섭 콜라보"	체포낙	2026-09-20T14:00:00Z		
-23:05												
-23:10												
-23:15												
-23:20												
+23:00	체포낙	https://youtu.be/oxQ1kP6gHfQ	3:24	2		oxQ1kP6gHfQ	UCi35WeuD14KkTeCmVmqjDKg	"신창섭 콜라보"	체포낙	2026-09-20T14:00:00Z	2026-09-20T14:00:07Z	2026-09-20T14:05:29Z
+23:05	나는아무것도몰라요	https://youtu.be/MWvLC6slFHc	4:34	1		MWvLC6slFHc	UC0e0-1WmiGtfj1WFbDDuHRA	"🚬 연기처럼 사라진 - 'SMOKE' MV [가사/해석/Lyrics]"	나는아무것도몰라요	2026-09-20T14:05:00Z	2026-09-20T14:05:07Z	2026-09-20T14:10:39Z
+23:10	Lysnjok	https://youtu.be/8F7RK4zZbsI	2:19	1		8F7RK4zZbsI	UCrnNcn4PpNunnHYdjNVvb8A	"🍄 늦게 접을수록 당신만 손해 : The Bid SSALROI, Justin BM - STAY [가사/해석/lyrics]"	리슨족Lysnjok	2026-09-20T14:10:00Z	2026-09-20T14:10:10Z	2026-09-20T14:13:25Z
+23:15	duRE	https://youtu.be/mwEHvfdnL9Q	2:38	1		mwEHvfdnL9Q	UCBwzlC5kpqxfCstwgm-04KA	"메숭이 - 자폐아"	DUre	2026-09-20T14:15:00Z	2026-09-20T14:15:09Z	2026-09-20T14:18:44Z
+23:20	DWAET	https://youtu.be/69Ui_h0a6Vk	3:56	1		69Ui_h0a6Vk	UC7GvbrpAQuBOsJMhJggto8Q	"[리믹스] TRUE COLORS (Lo-Fi Rock Remix)"	DWAET	2026-09-20T14:20:00Z	2026-09-20T14:20:06Z	
 23:25												
 23:30												
 23:35												
