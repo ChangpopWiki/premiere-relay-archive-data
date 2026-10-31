@@ -1,6 +1,6 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
+23:00	나는아무것도몰라요	https://youtu.be/I0piIA1ERBA	4:11	1		I0piIA1ERBA	UC0e0-1WmiGtfj1WFbDDuHRA	"[창팝] 저주같은 (Feat. 레이지)"	나는아무것도몰라요	2026-10-31T14:00:00Z	2026-10-31T14:00:07Z	2026-10-31T14:05:22Z
+23:05	이단아	youtube.com/watch?v=ubFJMP9Px18&feature=youtu.be	1:36	2		ubFJMP9Px18	UCN0oSeuRcCR6Vq1fBJqCE7Q	"아 줴획이야"	heki	2026-10-31T14:05:00Z	2026-10-31T14:05:18Z	2026-10-31T14:08:42Z
 23:10												
 23:15												
 23:20												
