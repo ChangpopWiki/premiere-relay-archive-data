@@ -1,7 +1,7 @@
 time_slot	column_a	column_b	column_c	column_d	column_e	video_id	channel_id	title	channel_title	scheduled_start_time	actual_start_time	actual_end_time
-23:00												
-23:05												
-23:10												
+23:00	아무개	"미쳤지 신창섭"				zNcNEGVdmfk	UCS7q34wxwIxtezOXztLpMCw	"미쳤지 신창섭"	아무개	2026-11-17T14:00:00Z	2026-11-17T14:00:08Z	2026-11-17T14:03:39Z
+23:05	CHASI	"GOTTA MAKE IT BIG !!!"				ozHYSmS8lRU	UC4YKRTiDMJ9a1szIRp7fhrw	"GOTTA MAKE IT BIG !!!"	CHASI	2026-11-17T14:05:00Z	2026-11-17T14:05:09Z	2026-11-17T14:10:45Z
+23:10	무명음악가	https://youtu.be/z-vLUkVOlyE	3:34	2		z-vLUkVOlyE	UCZAN2AiP1W0mLuIGsWP_Hmw	"[창팝] 쉬었음 청년"	무명음악가	2026-11-17T14:10:00Z	2026-11-17T14:10:08Z	
 23:15												
 23:20												
 23:25												
